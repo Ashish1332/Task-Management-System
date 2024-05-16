@@ -12,7 +12,7 @@ This task management system is built using the Nest.js framework and MongoDB as 
 
 ## How to Setup
 1. Clone the project repository
-2. git clone https://github.com/yazan-zoghbi/task-manager-nestjs
+2. git clone https://github.com/Ashish1332/Task-Management-System)
 3. Install the dependencies
 ```npm install```
 4. Run the application
