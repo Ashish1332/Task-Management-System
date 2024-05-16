@@ -1,6 +1,13 @@
 # Task Management System
 A task management system to manage the tasks and its status.
 
+# Contributors
+
+Thanks to the following people who have contributed to this project:
+- **[Pranav Lahitkar](https://github.com/PranavLahitkar)**
+- **[Prathmesh Tiwari](https://github.com/username)** 
+
+
 ## Overview
 This task management system is built using the Nest.js framework and MongoDB as a database. It allows you to create, update, and delete tasks and manage their statuses.
 
